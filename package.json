@@ -30,7 +30,7 @@
     "@antora/ui-loader": "~2"
   },
   "dependencies": {
-    "antora-eui-lunr": "OP-TED/antora-eui-lunr"
+    "antora-eui-lunr": "github:OP-TED/antora-eui-lunr"
   },
   "devDependencies": {
     "@antora/asciidoc-loader": "~2",
