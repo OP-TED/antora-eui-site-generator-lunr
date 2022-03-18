@@ -1,6 +1,6 @@
 {
-  "name": "antora-site-generator-lunr",
-  "version": "0.6.1",
+  "name": "antora-eui-site-generator-lunr",
+  "version": "0.0.1",
   "description": "An Antora's site generator that produces a Lunr index.",
   "license": "MIT",
   "author": "Guillaume Grossetie (https://github.com/Mogztter)",
@@ -30,7 +30,7 @@
     "@antora/ui-loader": "~2"
   },
   "dependencies": {
-    "antora-lunr": "0.8.0"
+    "antora-eui-lunr": "OP-TED/antora-eui-lunr"
   },
   "devDependencies": {
     "@antora/asciidoc-loader": "~2",
